@@ -23389,6 +23389,7 @@
 ||malcare.me^
 ||maldini.xyz^
 ||male-basis.pro^
+||male-fight.pro^
 ||malewait.com^
 ||maliciousdemonic.com^
 ||malleinpearceorioles.cyou^
@@ -32948,6 +32949,7 @@
 ||qualitydestructionhouse.com^
 ||qualitymortify.com^
 ||quangablock.cyou^
+||quangokebobmurally.cyou^
 ||quangosglauber.qpon^
 ||quangospina.cfd^
 ||quanta-wave.com^
